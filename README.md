@@ -14,14 +14,14 @@ A 2D puzzle word game project using **C# and Unity**
 
 ---
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nggiahii) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hyu758)
 
 ---
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -30,7 +30,7 @@ A 2D puzzle word game project using **C# and Unity**
 
 ---
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=hyu758&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
