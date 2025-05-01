@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-🔭 **I’m currently working on:**  
-A 2D puzzle word game project using **C# and Unity**
+🔭 **I’m currently working as a Game Developer**  
+at a game studio focusing on **2D puzzle word games** using **C# and Unity**
 
 🌱 **I’m currently learning:**  
 - Game optimization techniques in **Unity**  
